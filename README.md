@@ -48,7 +48,7 @@ no
 
 ![](https://github.com/Quetzal345/Tolerante-a-fallas/blob/8a0a4278503aac6cac83077867ff7816a36b4658/Campturas/200px-Buggie.svg.png)
 
-Bugzilla es un sistema de seguimiento de errores basado en web, que permite a los equipos de desarrolladores llevar un registro de los problemas, mejoras y otros cambios solicitados en sus productos de software. Bugzilla fue originalmente desarrollado y usado por el proyecto Mozilla, pero ahora es utilizado por muchas otras organizaciones y proyectos de código abierto. 
+Bugzilla es un sistema de seguimiento de errores basado en web, que permite a los equipos de desarrolladores llevar un registro de los problemas, mejoras y otros cambios solicitados en sus productos de software.  Bugzilla fue originalmente desarrollado y usado por el proyecto Mozilla, pero ahora es utilizado por muchas otras organizaciones y proyectos de código abierto. 
 Algunas de las características de Bugzilla son:
 Búsqueda avanzada: permite encontrar el error exacto que se busca, usando varios criterios y filtros.
 Productos y componentes: permite categorizar y rastrear los errores según los productos y componentes a los que pertenecen.
@@ -56,4 +56,22 @@ Productos y componentes: permite categorizar y rastrear los errores según los p
 ## [Principios y prevención de defectos (2)](https://github.com/Quetzal345/Tolerante-a-fallas/blob/7922f79c347b63b8a6b551a2f14a3d55c8f35d47/Modulo%201/ODC.pdf)
 
 ## [Generar un programa que sea capaz de restaurar el estado de ejecución. ](https://github.com/Quetzal345/Tolerante-a-fallas/blob/e3788b0fd670b4b61a65e674379cddf820722278/Modulo%201/reporte_checkpointing.pdf)
+Entonces para probarlo, realice un juego sencillo el cual consiste en adivinar un número, lo que hace el juego es que el usuario puede poner un rango desde 1 al 100 para poder adivinar el número, así como se ve en la imagen, el usuario puede mover la barra para elegir el rango de dificultad en el que quiere jugar.
+
+![](https://github.com/Quetzal345/Tolerante-a-fallas/blob/b50debad1eb38ad9b5d2c4bf2d590900605953ea/Campturas/captura%202.png)
+
+Después de escoger el rango en el que se quiere jugar, ahora solo queda adivinar el número, pero el juego tiene un contador de intentos, como el que aparece a continuación.
+
+![](https://github.com/Quetzal345/Tolerante-a-fallas/blob/b50debad1eb38ad9b5d2c4bf2d590900605953ea/Campturas/Captura%203.png)
+
+Además, que al usar pickle, se genera un archivo que es binario en el que guarda el estado del juego.
+
+![](https://github.com/Quetzal345/Tolerante-a-fallas/blob/b50debad1eb38ad9b5d2c4bf2d590900605953ea/Campturas/Captura%204.png)
+
+## [An Introduction to Scaling Distributed Python Applications](https://github.com/Quetzal345/Traductores-de-lenguajeII/blob/907ee4e7020e7fff7c8912b5edc3d00e4703c963/Modulo1/Distributed%20Python%20Applications_Delgado.pdf)
+Generar un programa utilizando hilos, procesos, demonios y concurrencia. 
+
+
+
+
 
