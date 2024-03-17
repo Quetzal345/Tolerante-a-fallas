@@ -71,7 +71,9 @@ Además, que al usar pickle, se genera un archivo que es binario en el que guard
 ## [An Introduction to Scaling Distributed Python Applications](https://github.com/Quetzal345/Traductores-de-lenguajeII/blob/907ee4e7020e7fff7c8912b5edc3d00e4703c963/Modulo1/Distributed%20Python%20Applications_Delgado.pdf)
 Generar un programa utilizando hilos, procesos, demonios y concurrencia. 
 
+En el programa, se logra la concurrencia mediante el uso de hilos y procesos para ejecutar tareas en segundo plano mientras la interfaz de usuario sigue siendo receptiva y funcional.
+Por ejemplo, mientras el demonio monitorea el estado del juego, el jugador puede seguir interactuando con la interfaz gráfica y realizar acciones como adivinar un número o cambiar la dificultad.
 
-
+![](https://github.com/Quetzal345/Tolerante-a-fallas/blob/3f000ef85567282b6722eb1bdd60ca11e451898c/Campturas/captura%205.png)
 
 
