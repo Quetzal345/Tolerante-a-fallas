@@ -96,5 +96,20 @@ y de una revisión de cada 30 segundos.
 
 Para esta práctica lo que quiero realizar es un programa que pueda consultar mi top 50 canciones escuchadas en Spotify, ya que Spotify me da un token para poder acceder a la API, así que con ello poder acceder a las canciones, simplemente voy a acceder a los nombres de las canciones y los artistas que interpretan dichas canciones, también voy aagregar hilos, para que el programa pueda intentar varias veces para lograr obtener los resultados que quiero.
 
-![]()
+Aqui quite una letra del token para que se pueda apreciar que el programa intenta 3 veces para obtener los resultados, después de los 3 intentos, el programa te da un 
+mensaje de error, de que no se pudo obtener las canciones.
 
+![](https://github.com/Quetzal345/Tolerante-a-fallas/blob/f1b8480324756002df86bb26b3862defff8a8410/Campturas/cap16.png)
+
+Una vez obteniendo las canciones, así es como se muestra en el programa
+
+![](https://github.com/Quetzal345/Tolerante-a-fallas/blob/f1b8480324756002df86bb26b3862defff8a8410/Campturas/cap15.png)
+
+## [Segundo ejemplo práctico utilizando el orquestador de Prefect](https://github.com/Quetzal345/Tolerante-a-fallas/blob/f1b8480324756002df86bb26b3862defff8a8410/Modulo%201/perfect.pdf)
+
+Prefect es una plataforma de código abierto para la orquestación de flujos de trabajo en Python, diseñada para facilitar la automatización de procesos complejos y la gestión eficiente de tareas en entornos de ciencia de datos y desarrollo de software. Con Prefect, los usuarios pueden definir, programar y ejecutar flujos de trabajo de manera declarativa, lo que permite una mayor claridad y control sobre el flujo de los datos y las dependencias entre las tareas.
+
+En este ejemplo donde utilizo perfect, pero utilizo la API de youtube, para que me diera datos acerca de mi cuenta de youtube, como se puede ver están en 0, ya que no soy un 
+youtuber, pero con este programa se podría ver los subscritores, likes, reproducciones y más.
+
+![](https://github.com/Quetzal345/Tolerante-a-fallas/blob/f1b8480324756002df86bb26b3862defff8a8410/Campturas/cap14.png)
