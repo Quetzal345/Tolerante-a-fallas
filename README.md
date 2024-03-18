@@ -76,4 +76,25 @@ Por ejemplo, mientras el demonio monitorea el estado del juego, el jugador puede
 
 ![](https://github.com/Quetzal345/Tolerante-a-fallas/blob/3f000ef85567282b6722eb1bdd60ca11e451898c/Campturas/captura%205.png)
 
+## [Estatus](https://github.com/Quetzal345/Tolerante-a-fallas/blob/8075c409ca254a5ef30977e5c0846db11cdc8fdb/Modulo%201/Estatus_Delgado.pdf)
+
+Esta es la línea de comando para poder hacer tu programa un servicio, al cual el nombre le puse mi servicio para identificarlo más fácil. También es importante recalcar que necesitas ejecutar como administrador la terminal, si no funcionara.
+
+![](https://github.com/Quetzal345/Tolerante-a-fallas/blob/21ae308aee82306d95aac0fb30a95148c1ac9565/Campturas/cap11.png)
+
+Como muestra, es que ya existe otro servicio por eso me marca un error, ya que al momento de ver si funcionaba no tome captura de pantalla, pero si cambio el nombre del 
+servicio funcionaria para otro script que se tenga.
+
+![](https://github.com/Quetzal345/Tolerante-a-fallas/blob/21ae308aee82306d95aac0fb30a95148c1ac9565/Campturas/cap12.png)
+
+Como se puede observar el servicio se crea de y aparece en mis servicios, aunque lo único que realiza es cerrar el Chrome si ve que esta abierto, lo cual hace mediante hilos 
+y de una revisión de cada 30 segundos.
+
+![](https://github.com/Quetzal345/Tolerante-a-fallas/blob/21ae308aee82306d95aac0fb30a95148c1ac9565/Campturas/cap13.png)
+
+## [Workflow managers](https://github.com/Quetzal345/Tolerante-a-fallas/blob/db4f319914e75c4d84f46528c6e4ce0dc6ce8530/Modulo%201/Reporte_Workflow%20managers_Delgado.pdf)
+
+Para esta práctica lo que quiero realizar es un programa que pueda consultar mi top 50 canciones escuchadas en Spotify, ya que Spotify me da un token para poder acceder a la API, así que con ello poder acceder a las canciones, simplemente voy a acceder a los nombres de las canciones y los artistas que interpretan dichas canciones, también voy aagregar hilos, para que el programa pueda intentar varias veces para lograr obtener los resultados que quiero.
+
+![]()
 
